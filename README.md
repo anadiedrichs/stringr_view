@@ -31,4 +31,4 @@ https://es.r4ds.hadley.nz/cadenas-de-caracteres.html
 https://github.com/rstudio/cheatsheets/raw/master/strings.pdf
 * Regular expressions cheat sheet (inglés)
 https://github.com/rstudio/cheatsheets/raw/master/regex.pdf
-* related repository about regular expressions 
+* [related repository about regular expressions ](https://github.com/anadiedrichs/stringr_regular_expressions)
