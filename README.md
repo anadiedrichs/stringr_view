@@ -1,14 +1,18 @@
 # Debugging regular expressions
 
-## Software tools
+## Class materials
+
+### Software tools
 
 
+#### Binder Rstudio
 
 Open Rstudio repo in binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anadiedrichs/stringr_view/master?urlpath=rstudio)
 
+#### Packages to install
 
-## Materials 
+### Slides
 
 
 Class material to teach stringr_view
