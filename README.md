@@ -12,6 +12,28 @@ Open Rstudio repo in binder
 
 #### Packages to install
 
+Los paquetes necesarios son: dplyr, stringr y guaguas.
+The packages needed for the class are: dplyr, stringr y guaguas.
+Si ya tienes instalado tidyverse, entonces tienes dplyr y stringr.
+If you have already installed tidyverse, you have dplyr and stringr.
+
+Para instalar todo:
+To install all the packages:
+<pre>
+install.packages(c("dplyr","stringr","guaguas"))
+</pre>
+
+Para instalar sólo guaguas:
+If you want only install guaguas package:
+
+<pre>
+install.packages("guaguas")
+library(guaguas) # test
+head(guaguas) # visualize the first lines of the dataset
+</pre>
+
+
+
 ### Slides
 
 
